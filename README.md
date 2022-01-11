@@ -1,7 +1,7 @@
 # 16in-FAL-Barrel-spt-aki
 
 Original author warwolf41 modified by Kropotkin using base by Nootropix/A T L A S
-All the code is taken from Nootropix/A T L A S so credit to them :)
+All the code is taken from Nootropix/A T L A S or warwolf141 so credit to them :)
 
 INSTALLATION:
 
