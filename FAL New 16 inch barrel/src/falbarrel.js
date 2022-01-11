@@ -17,7 +17,7 @@ class Falbarrel
         const global = database.locales.global;
         const traders = database.traders;
         //handbook
-        const itemCategory = "555ef6e44bdc2de9068b457e";
+        const itemCategory = "5b5f75c686f774094242f19f";
         const itemFleaPrice = 24000;
 
         //item
