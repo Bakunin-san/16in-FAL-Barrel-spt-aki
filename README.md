@@ -1,6 +1,6 @@
 # 16in-FAL-Barrel-spt-aki
 
-Original author warwolf41 modified by Kropotkin
+Original author warwolf41 modified by Kropotkin using base by Nootropix/MT_Militia
 
 INSTALLATION:
 
