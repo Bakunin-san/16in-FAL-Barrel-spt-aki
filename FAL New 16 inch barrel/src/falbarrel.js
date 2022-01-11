@@ -1,3 +1,5 @@
+//This code is stolen from A T L A S/Nootropix and all credit goes to them
+
 class Falbarrel
 {
     constructor()
