@@ -26,9 +26,9 @@ class Falbarrel
         const itemShortName = 'SA58 16.5"';
         const itemDescription = "A 16.5 inch (419mm) barrel for DS Arms SA-58 7.62x51.";
         //offer
-        const itemTrader = "5a7c2eca46aef81a7ca2145d"; //Peacekeeper
+        const itemTrader = "5a7c2eca46aef81a7ca2145d"; //Mechanic
         const itemTraderPrice = 32000;
-        const itemTraderCurrency = "5449016a4bdc2d6f028b456f"; //Dollars
+        const itemTraderCurrency = "5449016a4bdc2d6f028b456f"; //Roubles
         const itemTraderLV = 3;
         //pass info to functions below
         this.createItemHandbookEntry(itemId, itemCategory, itemFleaPrice, handbook);
@@ -54,7 +54,7 @@ class Falbarrel
         item._props.Prefab.path = "assets/content/items/mods/barrels/barrel_sa58_ds_arms_medium_contour_new406mm.bundle";
         //add item back to database
         DatabaseServer.tables.templates.items[i_id] = item
-        DatabaseServer.tables.templates.items["5b0bbe4e5acfc40dc528a72d"]._props.Slots[3]._props.filters[0].Filter.push ("fal_short_16in") ; // Add item to Default Inventory SLOTS
+        DatabaseServer.tables.templates.items["5b0bbe4e5acfc40dc528a72d"]._props.Slots[3]._props.filters[0].Filter.push ("fal_short_16in") ; // Add item to SA-58 Barrel slot
         //add custom item names to all languages/locales
         for (const localeID in i_global)
         {
