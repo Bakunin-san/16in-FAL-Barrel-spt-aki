@@ -10,7 +10,7 @@ Drag folder "FAL New 16 inch Barrel" into directory mods located under users in 
 
 USAGE:
 
-Barrel is available on flea for around 22000 roubles or from Mechanic lvl 3 for about 32000 roubles. These numbers can be modified in the fallbarrel.js file in the src folder.
+Barrel is available from Mechanic lvl 3 for about 32000 roubles. These numbers can be modified in the fallbarrel.js file in the src folder.
 
 Modification:
 
