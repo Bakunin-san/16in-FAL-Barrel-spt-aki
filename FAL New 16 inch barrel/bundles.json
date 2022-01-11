@@ -1,0 +1,12 @@
+{
+  "manifest": [
+    {
+      "key": "assets/content/items/mods/barrels/barrel_sa58_ds_arms_medium_contour_new406mm.bundle",
+      "dependencyKeys": [
+		"cubemaps",
+		"shaders",
+		"assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    }
+  ]
+}

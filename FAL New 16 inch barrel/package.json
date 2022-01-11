@@ -1,0 +1,9 @@
+{
+  "name": "falbarrel",
+  "author": "warwolf41, Kropotkin",
+  "license": "CC BY-NC-SA 4.0",
+  "version": "1.0.0",
+  "akiVersion": "2.1.2",
+  "main": "package.js",
+  "dependencies": {}
+}
